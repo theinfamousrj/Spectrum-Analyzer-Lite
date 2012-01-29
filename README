@@ -1,0 +1,9 @@
+This is a simple arduino program for interfacing two FFT chips with the arduino.
+
+Arduino: http://www.sparkfun.com/products/11021
+FFT chipset: http://www.sparkfun.com/products/10468
+New FFT chipset proto-board: http://www.sparkfun.com/products/10306
+
+What I was trying to achieve:
+http://www.youtube.com/watch?v=igGroIcga3g
+http://www.youtube.com/watch?v=BcyXE5xPbDk
